@@ -1,7 +1,7 @@
 # Resume Repository
 
 ## Projects:
-* Machine Learning Application for HR
+* Machine Learning Application for HR <br></br>
 	*Created collaborative filtering recommendation model to reduce bias in the hiring process.*
 
 * Successful Appeal of Property Tax Increase
@@ -48,41 +48,41 @@
 ## Professional Development:
 
 #### Machine Learning – Stanford Online - Andrew Ng
-	Completed November 2019
-	Certificate link
+###### Completed November 2019
+###### Certificate link
 
 #### Tableau A-Z: Hands-On Tableau Training for Data Science
-Completed: January 2020
-Certificate link 
+###### Completed: January 2020
+###### Certificate link 
  
 #### Tableau 20 Advanced Training: Master Tableau in Data Science
-Completed: March 2020
-Certificate link
+###### Completed: March 2020
+###### Certificate link
 
 #### Python A-Z™: Python for Data Science With Real Exercises
-Completed: April 2020
-Certificate link
+###### Completed: April 2020
+###### Certificate link
 
 #### R Programming A-Z™: R for Data Science With Real Exercises
-Completed: Aug 2020
-Certificate link
+###### Completed: Aug 2020
+###### Certificate link
 
 #### Adobe Photoshop CC – Essentials Training Course
-Completed: September 2020
-Certificate link
+###### Completed: September 2020
+###### Certificate link
 
 #### Data Science A-Z™: Real-Life Data Science Exercises
-Completed: November 2020
-Certificate link
+###### Completed: November 2020
+###### Certificate link
 
 #### Natural Language Processing (NLP) with BERT
-Completed: February 2021
-Course link
+###### Completed: February 2021
+###### Course link
 
 #### Artificial Neural Network for Regression
-Completed: January 2021
-Course link
+###### Completed: January 2021
+###### Course link
 
-#### Machine Learning A-Z™: Hands-On Python and R in Data Science
-Completed February 2021
-Certificate link
+##### Machine Learning A-Z™: Hands-On Python and R in Data Science
+###### Completed February 2021
+###### Certificate link
