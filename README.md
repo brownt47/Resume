@@ -1,12 +1,11 @@
 # Resume Repository
 
-## Projects:
+### Projects:
 * Machine Learning Application for HR
-	Created collaborative filtering recommendation model to reduce bias in the hiring process.
+    * Created collaborative filtering recommendation model to reduce bias in the hiring process.
 
-* Successful Appeal of Property Tax Increase
-	
-	*Performed regression analysis using public real estate data for the district.  Created report that convincingly showed the assessment was well above comparable properties.  
+#### Successful Appeal of Property Tax Increase
+> Performed regression analysis using public real estate data for the district.  Created report that convincingly showed the assessment was well above comparable properties.  
 
 * Time-Series Forecasting of Student Demand for Course Offerings
 	*Track historical trends in past semesters’ enrollment data to plan future course schedules.*
@@ -23,18 +22,17 @@
 * Fake News Detector
 	*Built a Fake News detector using a BERT NLP sentiment analysis model using a data set from Kaggle.*
 
-## Employment History:
+### Employment History:
 * Associate Chair of Mathematics, Computer Science and Engineering
 ###### *Georgia State University /  2011 – Present*
 ###### *Manage scheduling and staffing of courses; development and evaluation of faculty; project manager; conduct training sessions; resolve student-faculty conflicts; drafting reports; presentations; mentoring; academic coaching; teach math and statistics courses.*
 
-* Assistant Professor of Mathematics and Computer Science     	              
-   		*South Georgia State College /  2004 – 2011*
-  	*Taught courses in mathematics, statistics, computer science and information technology.  Designed curriculum for math and computer science programs.  Responsible for assessments of students within entire college.*
+* Assistant Professor of Mathematics and Computer Science	*South Georgia State College /  2004 – 2011*
+> Taught courses in mathematics, statistics, computer science and information technology.  Designed curriculum for math and computer science programs.  Responsible for assessments of students within entire college.*
 
-## Technical Skills:
-	Python, R, MATLAB, SPSS, STATA, SAS, Octave, NVivo, Gretl
-	JAVA, C++, COBOL, VB.Net, VBA, Scala
+### Technical Skills:
+###### Python, R, MATLAB, SPSS, STATA, SAS, Octave, NVivo, Gretl
+###### *JAVA, C++, COBOL, VB.Net, VBA, Scala*
 	SQL, SSIS, Spark
 	SciKit-Learn, Keras, TensorFlow, Ktrain, BERT, NLP, XGBoost. ANN, CNN
 	Adobe Creative Cloud Suite – PhotoShop, Xd
@@ -49,8 +47,7 @@
 ## Professional Development:
 
 #### Machine Learning – Stanford Online - Andrew Ng
-###### Completed November 2019
-###### Certificate link
+###### Completed November 2019  Certificate link
 
 #### Tableau A-Z: Hands-On Tableau Training for Data Science
 ###### Completed: January 2020
