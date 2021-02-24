@@ -1,4 +1,4 @@
-# Resume Repository
+## Resume - Timothy Brown
 
 ### Projects:
 
@@ -29,8 +29,8 @@
 > Manage scheduling and staffing of courses; development and evaluation of faculty; project manager; conduct training sessions; resolve student-faculty conflicts; drafting reports; presentations; mentoring; academic coaching; teach math and statistics courses.
 
 ##### Assistant Professor of Mathematics and Computer Science	
-> *South Georgia State College /  2004 – 2011*
-> Taught courses in mathematics, statistics, computer science and information technology.  Designed curriculum for math and computer science programs.  Responsible for assessments of students within entire college.*
+> *South Georgia State College /  2004 – 2011*\
+> Taught courses in mathematics, statistics, computer science and information technology.  Designed curriculum for math and computer science programs.  Responsible for assessments of students within entire college.
 
 ### Technical Skills:
 > Python, R, MATLAB, SPSS, STATA, SAS, Octave, NVivo, Gretl\
@@ -39,24 +39,24 @@
 > SciKit-Learn, Keras, TensorFlow, Ktrain, BERT, NLP, XGBoost. ANN, CNN\
 > Adobe Creative Cloud Suite – PhotoShop, Xd\
 > Tableau, GGplot2, Seaborn, UX/UI Design\
-> Microsoft Office Suite: Word, Excel, Access, PowerPoint, Flow, Forms\
+> Microsoft Office Suite: Word, Excel, Access, PowerPoint, Flow, Forms
 
 ### Education:
 > M.S. Mathematics - University of California, Riverside\
-> B.S. Mathematics and Computer Sciences - Greensboro College, North Carolina\ 
-> Research Data Services Certification - Georgia State University\
+> B.S. Mathematics and Computer Sciences - Greensboro College, North Carolina\
+> Research Data Services Certification - Georgia State University
 
 ### Professional Development:
 
-* Machine Learning – Stanford Online - Andrew Ng
-* Tableau A-Z: Hands-On Tableau Training for Data Science
-* Tableau 20 Advanced Training: Master Tableau in Data Science
-* Python A-Z™: Python for Data Science With Real Exercises
-* R Programming A-Z™: R for Data Science With Real Exercises
-* Adobe Photoshop CC – Essentials Training Course
-* Data Science A-Z™: Real-Life Data Science Exercises
-* Natural Language Processing (NLP) with BERT
-* Artificial Neural Network for Regression
-* Machine Learning A-Z™: Hands-On Python and R in Data Science
+> Machine Learning – Stanford Online - Andrew Ng\
+> Tableau A-Z: Hands-On Tableau Training for Data Science\
+> Tableau 20 Advanced Training: Master Tableau in Data Science\
+> Python A-Z™: Python for Data Science With Real Exercises\
+> R Programming A-Z™: R for Data Science With Real Exercises\
+> Adobe Photoshop CC – Essentials Training Course\
+> Data Science A-Z™: Real-Life Data Science Exercises\
+> Natural Language Processing (NLP) with BERT\
+> Artificial Neural Network for Regression\
+> Machine Learning A-Z™: Hands-On Python and R in Data Science\
 
 
