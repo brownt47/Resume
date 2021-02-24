@@ -31,18 +31,18 @@
 > Taught courses in mathematics, statistics, computer science and information technology.  Designed curriculum for math and computer science programs.  Responsible for assessments of students within entire college.*
 
 ### Technical Skills:
-###### Python, R, MATLAB, SPSS, STATA, SAS, Octave, NVivo, Gretl
-###### *JAVA, C++, COBOL, VB.Net, VBA, Scala*
-	*SQL, SSIS, Spark*
-	SciKit-Learn, Keras, TensorFlow, Ktrain, BERT, NLP, XGBoost. ANN, CNN
+* Python, R, MATLAB, SPSS, STATA, SAS, Octave, NVivo, Gretl
+* JAVA, C++, COBOL, VB.Net, VBA, Scala*
+* SQL, SSIS, Spark*
+* SciKit-Learn, Keras, TensorFlow, Ktrain, BERT, NLP, XGBoost. ANN, CNN
 > Adobe Creative Cloud Suite – PhotoShop, Xd
 > Tableau, GGplot2, Seaborn, UX/UI Design
 > Microsoft Office Suite: Word, Excel, Access, PowerPoint, Flow, Forms
 
 ### Education:
-> M.S. Mathematics - University of California, Riverside
-> B.S. Mathematics and Computer Sciences - Greensboro College, North Carolina 
-> Research Data Services Certification - Georgia State University
+* M.S. Mathematics - University of California, Riverside
+* B.S. Mathematics and Computer Sciences - Greensboro College, North Carolina 
+* Research Data Services Certification - Georgia State University
 
 ### Professional Development:
 
