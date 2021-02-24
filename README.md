@@ -1,7 +1,7 @@
 Resume Repository
 
 ## Projects:
-	Machine Learning Application for HR
+### Machine Learning Application for HR
 Created collaborative filtering recommendation model to reduce bias in the hiring process.
 
 	Successful Appeal of Property Tax Increase
