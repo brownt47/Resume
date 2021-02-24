@@ -1,10 +1,11 @@
 # Resume Repository
 
 ## Projects:
-* Machine Learning Application for HR <br></br>
-	*Created collaborative filtering recommendation model to reduce bias in the hiring process.*
+* Machine Learning Application for HR
+	Created collaborative filtering recommendation model to reduce bias in the hiring process.
 
 * Successful Appeal of Property Tax Increase
+	
 	*Performed regression analysis using public real estate data for the district.  Created report that convincingly showed the assessment was well above comparable properties.  
 
 * Time-Series Forecasting of Student Demand for Course Offerings
@@ -23,9 +24,9 @@
 	*Built a Fake News detector using a BERT NLP sentiment analysis model using a data set from Kaggle.*
 
 ## Employment History:
-* Associate Chair of Mathematics, Computer Science and Engineering             
-   		*Georgia State University /  2011 – Present*
-  	*Manage scheduling and staffing of courses; development and evaluation of faculty; project manager; conduct training sessions; resolve student-faculty conflicts; drafting reports; presentations; mentoring; academic coaching; teach math and statistics courses.*
+* Associate Chair of Mathematics, Computer Science and Engineering
+###### *Georgia State University /  2011 – Present*
+###### *Manage scheduling and staffing of courses; development and evaluation of faculty; project manager; conduct training sessions; resolve student-faculty conflicts; drafting reports; presentations; mentoring; academic coaching; teach math and statistics courses.*
 
 * Assistant Professor of Mathematics and Computer Science     	              
    		*South Georgia State College /  2004 – 2011*
