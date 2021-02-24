@@ -1,17 +1,17 @@
 # Resume Repository
 
 ## Projects:
-### Machine Learning Application for HR
-Created collaborative filtering recommendation model to reduce bias in the hiring process.
+* Machine Learning Application for HR
+> Created collaborative filtering recommendation model to reduce bias in the hiring process.
 
-**Successful Appeal of Property Tax Increase**
-Performed regression analysis using public real estate data for the district.  Created report that convincingly showed the assessment was well above comparable properties.  
+* Successful Appeal of Property Tax Increase**
+> Performed regression analysis using public real estate data for the district.  Created report that convincingly showed the assessment was well above comparable properties.  
 
-#### Time-Series Forecasting of Student Demand for Course Offerings
-Track historical trends in past semesters’ enrollment data to plan future course schedules.
+* Time-Series Forecasting of Student Demand for Course Offerings
+> Track historical trends in past semesters’ enrollment data to plan future course schedules.
 	
 ##### Optimizing Office Hours for Student Success
-Analyze student schedules to maximize faculty availability when setting office hours.
+> Analyze student schedules to maximize faculty availability when setting office hours.
 
 ###### Predictive Modeling of Placement Scores to Optimize Student Success
 Measure past student placement scores against performances in the courses.  Find placement score thresholds where students have a greater chance of passing courses.
