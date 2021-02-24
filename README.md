@@ -2,8 +2,8 @@
 
 ### Projects:
 * Machine Learning Application for HR
- * *Created collaborative filtering recommendation model to reduce bias in the hiring process.*
-       * *ttt
+  * *Created collaborative filtering recommendation model to reduce bias in the hiring process.*
+    
 #### Successful Appeal of Property Tax Increase
 > Performed regression analysis using public real estate data for the district.  Created report that convincingly showed the assessment was well above comparable properties.  
 
@@ -33,46 +33,28 @@
 ### Technical Skills:
 ###### Python, R, MATLAB, SPSS, STATA, SAS, Octave, NVivo, Gretl
 ###### *JAVA, C++, COBOL, VB.Net, VBA, Scala*
-*SQL, SSIS, Spark*
-**SciKit-Learn, Keras, TensorFlow, Ktrain, BERT, NLP, XGBoost. ANN, CNN**
-Adobe Creative Cloud Suite – PhotoShop, Xd
-Tableau, GGplot2, Seaborn, UX/UI Design
-Microsoft Office Suite: Word, Excel, Access, PowerPoint, Flow, Forms
+	*SQL, SSIS, Spark*
+	SciKit-Learn, Keras, TensorFlow, Ktrain, BERT, NLP, XGBoost. ANN, CNN
+> Adobe Creative Cloud Suite – PhotoShop, Xd
+> Tableau, GGplot2, Seaborn, UX/UI Design
+> Microsoft Office Suite: Word, Excel, Access, PowerPoint, Flow, Forms
 
 ### Education:
-###### M.S. Mathematics - University of California, Riverside
-###### B.S. Mathematics and Computer Sciences - Greensboro College, North Carolina 
-###### Research Data Services Certification - Georgia State University
+> M.S. Mathematics - University of California, Riverside
+> B.S. Mathematics and Computer Sciences - Greensboro College, North Carolina 
+> Research Data Services Certification - Georgia State University
 
 ### Professional Development:
 
-#### Machine Learning – Stanford Online - Andrew Ng
-###### Completed November 2019  Certificate link
+* Machine Learning – Stanford Online - Andrew Ng
+* Tableau A-Z: Hands-On Tableau Training for Data Science
+* Tableau 20 Advanced Training: Master Tableau in Data Science
+* Python A-Z™: Python for Data Science With Real Exercises
+* R Programming A-Z™: R for Data Science With Real Exercises
+* Adobe Photoshop CC – Essentials Training Course
+* Data Science A-Z™: Real-Life Data Science Exercises
+* Natural Language Processing (NLP) with BERT
+* Artificial Neural Network for Regression
+* Machine Learning A-Z™: Hands-On Python and R in Data Science
 
-#### Tableau A-Z: Hands-On Tableau Training for Data Science
-###### Completed: January 2020
- 
-#### Tableau 20 Advanced Training: Master Tableau in Data Science
-###### Completed: March 2020
-
-#### Python A-Z™: Python for Data Science With Real Exercises
-###### Completed: April 2020
-
-#### R Programming A-Z™: R for Data Science With Real Exercises
-###### Completed: Aug 2020
-
-#### Adobe Photoshop CC – Essentials Training Course
-###### Completed: September 2020
-
-#### Data Science A-Z™: Real-Life Data Science Exercises
-###### Completed: November 2020
-
-#### Natural Language Processing (NLP) with BERT
-###### Completed: February 2021
-
-#### Artificial Neural Network for Regression
-###### Completed: January 2021
-
-##### Machine Learning A-Z™: Hands-On Python and R in Data Science
-###### Completed February 2021
 
