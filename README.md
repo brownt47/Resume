@@ -3,15 +3,18 @@
 ## Projects:
 * Machine Learning Application for HR
   * *Created collaborative filtering recommendation model to reduce bias in the hiring process.
-
+<br>
 * Successful Appeal of Property Tax Increase**
   * *Performed regression analysis using public real estate data for the district.  Created report that convincingly showed the assessment was well above comparable properties.  
 
 * Time-Series Forecasting of Student Demand for Course Offerings
   * *Track historical trends in past semesters’ enrollment data to plan future course schedules.
 	
+	
 * Optimizing Office Hours for Student Success
   * *Analyze student schedules to maximize faculty availability when setting office hours.
+
+<br>
 
 * Predictive Modeling of Placement Scores to Optimize Student Success
   * *Measure past student placement scores against performances in the courses.  Find placement score thresholds where students have a greater chance of passing courses.
@@ -32,19 +35,20 @@
   * *Taught courses in mathematics, statistics, computer science and information technology.  Designed curriculum for math and computer science programs.  Responsible for assessments of students within entire college.
 
 ## Technical Skills:
-Python, R, MATLAB, SPSS, STATA, SAS, Octave, NVivo, Gretl
-JAVA, C++, COBOL, VB.Net, VBA, Scala
-SQL, SSIS, Spark
-SciKit-Learn, Keras, TensorFlow, Ktrain, BERT, NLP, XGBoost. ANN, CNN
-Adobe Creative Cloud Suite – PhotoShop, Xd
-Tableau, GGplot2, Seaborn, UX/UI Design
-Microsoft Office Suite: Word, Excel, Access, PowerPoint, Flow, Forms
+###### Python, R, MATLAB, SPSS, STATA, SAS, Octave, NVivo, Gretl
+###### JAVA, C++, COBOL, VB.Net, VBA, Scala
+###### SQL, SSIS, Spark
+###### SciKit-Learn, Keras, TensorFlow, Ktrain, BERT, NLP, XGBoost. ANN, CNN
+###### Adobe Creative Cloud Suite – PhotoShop, Xd
+###### Tableau, GGplot2, Seaborn, UX/UI Design
+###### Microsoft Office Suite: Word, Excel, Access, PowerPoint, Flow, Forms
 
 ## Education:
-M.S. Mathematics - University of California, Riverside
-B.S. Mathematics and Computer Sciences - Greensboro College, North Carolina 
-Research Data Services Certification - Georgia State University
-Professional Development:
+###### M.S. Mathematics - University of California, Riverside
+###### B.S. Mathematics and Computer Sciences - Greensboro College, North Carolina 
+###### Research Data Services Certification - Georgia State University
+
+## Professional Development:
 
 #### Machine Learning – Stanford Online - Andrew Ng
 Completed November 2019
